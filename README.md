@@ -5,6 +5,10 @@
 
 </div>
 
+<p align="center">
+    <img src="assets/teaser_fastgs.jpg" width="700px"/>
+</p>
+
 ## 🚀 What Makes FastGS Special?
 
 FastGS is a **general acceleration framework** that supercharges 3D Gaussian Splatting training while maintaining Comparable rendering quality. Our method stands out with:
