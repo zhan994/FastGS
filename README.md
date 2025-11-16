@@ -45,6 +45,7 @@ FastGS is a **general acceleration framework** that supercharges 3D Gaussian Spl
 ## Setup
 ```bash
 git clone https://github.com/fastgs/FastGS.git --recursive
+cd FastGS
 conda env create --file environment.yml
 conda activate FastGS
 ```
