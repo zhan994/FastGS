@@ -1,7 +1,7 @@
 <div align="center">
 <h1>FastGS: Training 3D Gaussian Splatting in 100 Seconds</h1> 
 
-[🌐 Homepage](https://fastgs.github.io/) | [📄 Paper](https://arxiv.org/abs/2511.04283)
+[🌐 Homepage](https://fastgs.github.io/) | [📄 Paper](https://arxiv.org/abs/2511.04283) ｜[🤗 Pre-trained model](https://github.com/fastgs/FastGS)
 
 </div>
 
@@ -22,6 +22,7 @@ FastGS is a **general acceleration framework** that supercharges 3D Gaussian Spl
 
 ## 📢 Latest Updates
 ### 🔥 **[2025.11.16]** Code Released - Get Started Now! 🚀
+### 🔥 **[2025.11.17]** Pre-trained model Released 🤗!
 ### 🎯 Coming Soon
 - **[2025.12.31]** 🎯 **Multi-Task Expansion**:
   - Dynamic scenes Reconstruction: [Deformable-3D-Gaussians](https://github.com/ingra14m/Deformable-3D-Gaussians)
