@@ -204,7 +204,7 @@ Note that similar to MipNeRF360 and vanilla 3DGS, we target images at resolution
 
 ## 🎬 Interactive Viewers
 
-Our 3DGS representation is identical to vanilla 3DGS, so you can use the official [SIBR viewer](https://github.com/graphdeco-inria/gaussian-splatting?tab=readme-ov-file#interactive-viewers) for interactive visualization. For a quick start without local setup, try the web-based [Superlat editor](https://superspl.at/editor).
+Our 3DGS representation is identical to vanilla 3DGS, so you can use the official [SIBR viewer](https://github.com/graphdeco-inria/gaussian-splatting?tab=readme-ov-file#interactive-viewers) for interactive visualization. For a quick start without local setup, try the web-based [Supersplat](https://superspl.at/editor).
 
 ## 🎯 Quick Facts
 
