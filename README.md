@@ -23,7 +23,8 @@ FastGS is a **general acceleration framework** that supercharges 3D Gaussian Spl
 ## 📢 Latest Updates
 ### 🔥 **[2025.11.16]** Code Released - Get Started Now! 🚀
 ### 🔥 **[2025.11.17]** Pre-trained model Released 🤗!
-### 📄 **[2025.11.26]** The supplementary material has been released [here](https://arxiv.org/abs/2511.04283)
+### 📄 **[2025.11.26]** The supplementary material has been released [here](https://arxiv.org/abs/2511.04283)!
+### 🔧 **[2025.11.27]** The tutorial has been released — see the [Wiki](https://github.com/fastgs/FastGS/wiki)!
 ### 🎯 Coming Soon
 - **[2025.12.31]** 🎯 **Multi-Task Expansion**:
   - Dynamic scenes Reconstruction: [Deformable-3D-Gaussians](https://github.com/ingra14m/Deformable-3D-Gaussians)
